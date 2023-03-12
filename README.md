@@ -1,20 +1,15 @@
-# Battlesnake Python Starter Project
+# THE G.B.O.A.T (Greatest Battle Snake of All Time)
 
-### An official Battlesnake template written in Python. Get started at [play.battlesnake.com](https://play.battlesnake.com).
+## About
 
-![Battlesnake Logo](https://media.battlesnake.com/social/StarterSnakeGitHubRepos_Python.png)
+This battle snake was created for the 2023 UVic Battle Snake hackathon hosted by the UVic AI club. All code was written **_day of_** on March 11th 2023 from 10am-4pm. The snake competed in the beginners bracket of the tournament and made it all the way to the semi-finals.
 
-This project is a great starting point for anyone wanting to program their first Battlesnake in Python. It can be run locally or easily deployed to a cloud provider of your choosing. See the [Battlesnake API Docs](https://docs.battlesnake.com/api) for more detail. 
+## Team Members
+
+This battle snake was created by: Aaron Cohen, Jaden Alberding, Quinn Webster, and Scott Garneau
 
 ## Technologies Used
 
 This project uses [Python 3](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/).
 
-## Run Your Battlesnake
-
-1. Click the green 'Run' button to start your Battlesnake.
-2. Use your repl.co URL to register your Battlesnake and play games on [play.battlesnake.com](https://play.battlesnake.com).
-
-## Next Steps
-
-Continue with the [Battlesnake Quickstart Guide](https://docs.battlesnake.com/quickstart) to customize and improve your Battlesnake's behavior.
+![Battlesnake Logo](https://media.battlesnake.com/social/StarterSnakeGitHubRepos_Python.png)
